@@ -1,2 +1,3 @@
 # select-all
-Created with CodeSandbox
+
+「全選択」を押下すると一括でチェックボックスにチェックが入り、再度押下すると一括解除されるよう実装。
